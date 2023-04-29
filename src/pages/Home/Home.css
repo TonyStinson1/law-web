@@ -1,0 +1,12 @@
+/* Home.css */
+.banner {
+    background-color: #007bff;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .banner h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
